@@ -1,0 +1,55 @@
+{
+    "name": "sb-color",
+    "version": "1.0.0",
+    "publisher": "sbovyrin",
+    "displayName": "sb-color",
+    "description": "",
+    "icon": "assets/icon.png",
+    "galleryBanner": {
+        "color": "#F8F8F8",
+        "theme": "light"
+    },
+    "keywords": [
+        "theme",
+        "light",
+        "dark",
+        "semantic",
+        "minimal"
+    ],
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.13.1"
+    },
+    "bugs": {
+        "url": "https://github.com/sbovyrin/sb-color-theme/issues",
+        "email": "sbovyrin@gmail.com"
+    },
+    "homepage": "https://github.com/sbovyrin/sb-color-theme/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sbovyrin/sb-color-theme.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+              "label": "sb-color [light]",
+              "uiTheme": "vs",
+              "path": "./themes/sb-color-light-theme.json"
+            },
+            {
+              "label": "sb-color [dark]",
+              "uiTheme": "vs-dark",
+              "path": "./themes/sb-color-dark-theme.json"
+            }
+        ]
+    },
+    "scripts": {
+        "deploy": "vsce publish"
+    },
+    "devDependencies": {
+        "vsce": "^1.43.0"
+    }
+}
