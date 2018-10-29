@@ -329,7 +329,7 @@
     // [editor group]
     "editorGroup.border": "#6d696422",
     "editorGroup.dropBackground": "#2ebdb122",
-    "editorGroup.emptyBackground": "#f7f0e8",
+    "editorGroup.emptyBackground": "#FEFEF6",
     "editorGroupHeader.tabsBackground": "#f7f0e8",
     "editorGroup.focusedEmptyBorder": "#00000000",
     "editorGroupHeader.noTabsBackground": "#f7f0e8",
