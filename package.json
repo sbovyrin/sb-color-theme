@@ -40,6 +40,16 @@
               "path": "./themes/sb-color-light-theme.json"
             },
             {
+                "label": "sb-color [blight]",
+                "uiTheme": "vs",
+                "path": "./themes/sb-color-light-theme-bright.json"
+            },
+            {
+                "label": "sb-color [bdark]",
+                "uiTheme": "vs-dark",
+                "path": "./themes/sb-color-dark-theme-bright.json"
+            },
+            {
               "label": "sb-color [dark]",
               "uiTheme": "vs-dark",
               "path": "./themes/sb-color-dark-theme.json"
