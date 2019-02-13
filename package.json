@@ -1,33 +1,33 @@
 {
-    "name": "sb-color",
-    "version": "1.1.0",
+    "name": "semantic-colors",
+    "version": "1.0.0",
     "publisher": "sbovyrin",
-    "displayName": "sb-color",
-    "description": "",
+    "displayName": "Semantic Colors",
+    "description": "The color theme is inspired by nature and brings semantic meaning to syntax highlighting",
     "icon": "assets/icon.png",
     "galleryBanner": {
-        "color": "#F7F7F7",
+        "color": "#F5F7F8",
         "theme": "light"
     },
     "keywords": [
         "theme",
         "light",
         "dark",
-        "semantic",
-        "minimal"
+        "syntax",
+        "color"
     ],
     "license": "MIT",
     "engines": {
         "vscode": "^1.13.1"
     },
     "bugs": {
-        "url": "https://github.com/sbovyrin/sb-color-theme/issues",
+        "url": "https://github.com/sbovyrin/semantic-colors-theme/issues",
         "email": "sbovyrin@gmail.com"
     },
-    "homepage": "https://github.com/sbovyrin/sb-color-theme/blob/master/README.md",
+    "homepage": "https://github.com/sbovyrin/semantic-colors-theme/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sbovyrin/sb-color-theme.git"
+        "url": "https://github.com/sbovyrin/semantic-colors-theme.git"
     },
     "categories": [
         "Themes"
@@ -35,14 +35,14 @@
     "contributes": {
         "themes": [
             {
-              "label": "sb-color [light]",
+              "label": "Semantic Colors [light]",
               "uiTheme": "vs",
-              "path": "./themes/sb-color-light-theme.json"
+              "path": "./themes/semantic-colors-light-theme.json"
             },
             {
-              "label": "sb-color [dark]",
+              "label": "Semantic Colors [dark]",
               "uiTheme": "vs-dark",
-              "path": "./themes/sb-color-dark-theme.json"
+              "path": "./themes/semantic-colors-dark-theme.json"
             }
         ]
     },
