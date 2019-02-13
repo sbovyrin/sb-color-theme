@@ -23,17 +23,38 @@ There are only four colors in my theme and it keeps it clean and helps to naviga
 > The theme supports all languages that visual studio code supports.
 
 
+
 ## Preview
 
+
 ### Preview Semantic Colors [light]
-![preview_light](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/preview_light.png)
+
+#### JavaScript
+![preview_light_js](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/light/js.png)
+
+#### PHP
+![preview_light_php](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/light/php.png)
+
+#### Markdown
+![preview_light_markdown](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/light/markdown.png)
+
 
 ### Preview Semantic Colors [dark]
-![preview_dark](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/preview_dark.png)
+
+#### JavaScript
+![preview_dark_js](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/dark/js.png)
+
+#### PHP
+![preview_dark_php](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/dark/php.png)
+
+#### Markdown
+![preview_dark_markdown](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/dark/markdown.png)
+
 
 
 ## Issue
 If you find a bug, please file an issue on [my issue tracker on GitHub](https://github.com/sbovyrin/semantic-colors-theme/issues).
+
 
 
 ## MIT License Copyright (c) 2019 sbovyrin
