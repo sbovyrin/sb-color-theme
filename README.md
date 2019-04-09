@@ -13,19 +13,13 @@ I chose light background color to decrease discomfort for eyes. I often switch b
 *Also I added dark theme with the same colors due users request.*
 
 Most themes use a variaty of colors but it doesn't give any semantic meaning.
-There are only four colors in my theme and it keeps it clean and helps to navigate in code easily. I used shades of dark gray (light), light gray (dark theme), cyan, green, brown and lilac.
-- **Dark gray (light) / Light gray (dark theme)**
-- **Cyan**
-- **Green**
-- **Brown**
-- **Lilac**
+There are few colors in my theme and it keeps it clean and helps to navigate in code easily.
 
 > The theme supports all languages that visual studio code supports.
 
 
 
 ## Preview
-
 
 ### Preview Semantic Colors [light]
 
