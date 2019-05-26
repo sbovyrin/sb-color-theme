@@ -3,16 +3,16 @@
     "version": "1.0.0",
     "publisher": "sbovyrin",
     "displayName": "Semantic Colors",
-    "description": "The color theme is inspired by nature and brings semantic meaning to syntax highlighting",
+    "description": "The theme is inspired by natural colors and brings semantic meaning to syntax highlighting",
     "icon": "assets/icon.png",
     "galleryBanner": {
-        "color": "#F5F7F8",
+        "color": "#F9F5E8",
         "theme": "light"
     },
     "keywords": [
         "theme",
         "light",
-        "dark",
+        "minimal",
         "syntax",
         "color"
     ],
@@ -35,14 +35,9 @@
     "contributes": {
         "themes": [
             {
-              "label": "Semantic Colors [light]",
+              "label": "Semantic Colors",
               "uiTheme": "vs",
-              "path": "./themes/semantic-colors-light-theme.json"
-            },
-            {
-              "label": "Semantic Colors [dark]",
-              "uiTheme": "vs-dark",
-              "path": "./themes/semantic-colors-dark-theme.json"
+              "path": "./semantic-colors-theme.json"
             }
         ]
     },

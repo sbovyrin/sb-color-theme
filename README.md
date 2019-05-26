@@ -1,6 +1,6 @@
 # Semantic Colors theme
 
-The color theme is inspired by nature and brings semantic meaning to syntax highlighting.
+The theme is inspired by natural colors and brings semantic meaning to syntax highlighting.
 
 - **Author**: Sergey Bovyrin <sbovyrin@gmail.com>
 
@@ -10,45 +10,24 @@ The color theme is inspired by nature and brings semantic meaning to syntax high
 
 I chose light background color to decrease discomfort for eyes. I often switch between browser and code editor during my work. Since most webpages are light color, using dark color in the editor makes my eyes more tired because of the contrast.
 
-*Also I added dark theme with the same colors due users request.*
-
 Most themes use a variaty of colors but it doesn't give any semantic meaning.
 There are few colors in my theme and it keeps it clean and helps to navigate in code easily.
 
 > The theme supports all languages that visual studio code supports.
-
-
+> If you find a bug, please file an issue on [my issue tracker on GitHub](https://github.com/sbovyrin/semantic-colors-theme/issues).
 
 ## Preview
 
-### Preview Semantic Colors [light]
+### Preview Semantic Colors
 
 #### JavaScript
-![preview_light_js](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/light/js.png)
+![preview_js](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/js.png)
 
 #### PHP
-![preview_light_php](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/light/php.png)
+![preview_php](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/php.png)
 
 #### Markdown
-![preview_light_markdown](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/light/markdown.png)
-
-
-### Preview Semantic Colors [dark]
-
-#### JavaScript
-![preview_dark_js](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/dark/js.png)
-
-#### PHP
-![preview_dark_php](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/dark/php.png)
-
-#### Markdown
-![preview_dark_markdown](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/dark/markdown.png)
-
-
-
-## Issue
-If you find a bug, please file an issue on [my issue tracker on GitHub](https://github.com/sbovyrin/semantic-colors-theme/issues).
-
+![preview_markdown](https://raw.githubusercontent.com/sbovyrin/semantic-colors-theme/master/assets/previews/md.png)
 
 
 ## MIT License Copyright (c) 2019 sbovyrin
