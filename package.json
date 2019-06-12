@@ -35,9 +35,9 @@
     "contributes": {
         "themes": [
             {
-              "label": "Semantic Colors",
-              "uiTheme": "vs",
-              "path": "./semantic-colors-theme.json"
+                "label": "Semantic Colors",
+                "uiTheme": "vs",
+                "path": "./semantic-colors-theme.json"
             }
         ]
     },
@@ -45,6 +45,6 @@
         "deploy": "vsce publish"
     },
     "devDependencies": {
-        "vsce": "^1.43.0"
+        "vsce": "^1.62.0"
     }
 }
